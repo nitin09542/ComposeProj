@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeComponent</string>
+    <string name="title_activity_another">AnotherActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_nav">NavActivity</string>
+</resources>
